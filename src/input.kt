@@ -10,4 +10,13 @@ fun main(args: Array<String>) {
     var Lname= readLine()
     println("My first name is "+Fname)
     println("My last name is "+Lname)
+
+    print("Enter the first number:")
+    var num1= readLine()
+    println("The first number is;"+num1)
+    print("Enter the second number:")
+    var num2= readLine()
+    println("The second number is;"+num2)
+
+
 }
