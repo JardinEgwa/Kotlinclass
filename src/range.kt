@@ -8,4 +8,9 @@ fun main(args: Array<String>) {
 
     for (characters in 'J'..'M')
         println("My characters are "+characters)
+
+    println("My character range is :")
+
+    for (character in 'a'..'c')
+        println("Characters are "+"$character")
 }

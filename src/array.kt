@@ -4,4 +4,5 @@ fun main(args: Array<String>) {
     println(myarr[0])
     println ("My country is "+myarr[2])
     println(intarr.size)
+
 }
