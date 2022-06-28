@@ -11,6 +11,8 @@ fun main(args: Array<String>) {
 
     println("My character range is :")
 
-    for (character in 'a'..'c')
-        println("Characters are "+"$character")
+    for (numbers in 10..20)
+        println("numbers range"+numbers)
+
+
 }
